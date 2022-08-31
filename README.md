@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![image](https://user-images.githubusercontent.com/88650559/187777798-d60a7cc5-5992-4fc8-8f57-0ba547ec0400.png)
 
-# Place Order
+# Book your Order
 
 ![image](https://user-images.githubusercontent.com/88650559/187778519-1189430f-4693-4b55-bd92-01f9f7c45976.png)
 
