@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/map/getLocationCoordinates": "pages/api/map/getLocationCoordinates.js",
+  "/api/db/getUserInfo": "pages/api/db/getUserInfo.js",
+  "/api/map/getDuration": "pages/api/map/getDuration.js",
+  "/api/db/createUser": "pages/api/db/createUser.js",
+  "/api/db/getRideTypes": "pages/api/db/getRideTypes.js"
+}
